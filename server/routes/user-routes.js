@@ -1,3 +1,4 @@
+// This page of code is designed for the user routing of creating or viewing thoughts inputted by the user. 
 const express = require('express');
 const router = express.Router();
 
